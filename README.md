@@ -1,3 +1,5 @@
+## For Truffle configured application checkout the "newbranch" above 
+
 # Election Dapp
 
 Election nowadays happens using Electronic voting machine(EVM) whcih can face frauds
